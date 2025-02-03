@@ -630,6 +630,12 @@ img {
     color: #fff;
     margin-bottom: 16px;
 }
+.footer-form {
+    display: flex;
+    gap: 24px;
+    align-items: center;
+        justify-content: center;
+}
 
 
 
@@ -682,12 +688,12 @@ img {
     margin-left: 16px;
 }
 
-.footer-input-blok {
+/* .footer-input-blok {
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 24px;
-}
+} */
 
 /* .model-form {} */
 
